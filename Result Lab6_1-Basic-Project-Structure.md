@@ -1,6 +1,7 @@
 # ผลลัพธ์
 ### ดูขนาดBinary
 <img width="604" height="320" alt="Screenshot 2025-08-20 085244" src="https://github.com/user-attachments/assets/5d6f78a9-949a-4e66-b74c-64a84ee1e638" />
+
 ### ดูรายละเอียดขนาดตาม component
 ```
 Executing action: size-components
